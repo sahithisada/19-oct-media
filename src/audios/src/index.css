@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  background-color: rgb(249, 238, 211);
+  border-radius: 20px;
+  border: 10px solid black;
+}
+.poster{
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+  margin: 10px;
+}
+h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(237, 202, 48);
+  text-shadow: 3px 1px 1px rgb(0, 0, 0);
+}
